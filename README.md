@@ -2,6 +2,6 @@ Custom calculator enabling users to input values (grams and percentage) to get d
 
 Implementation:
 
-https://oregonbaba.com/potency/
+https://oregonbaba.com
 
-[potency-calculator-image.pdf](https://github.com/digitaljosh/potency-calc/files/2573249/potency-calculator-image.pdf)
+![potency-calculator-image](https://user-images.githubusercontent.com/25624304/48369187-713d2a80-e67b-11e8-9d6e-8e9ff667d7dd.png)
